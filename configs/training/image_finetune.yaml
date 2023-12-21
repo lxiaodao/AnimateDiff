@@ -26,7 +26,7 @@ validation_data:
   guidance_scale: 8.
 
 trainable_modules:
-  - "."
+  - "models/Motion_Module/mm_sd_v15.ckpt"
 
 unet_checkpoint_path: ""
 
