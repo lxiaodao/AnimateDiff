@@ -12,6 +12,7 @@ scripts/
 *.ipynb
 *.safetensors
 *.ckpt
+datasets/webvid/*
 
 models/*
 !models/StableDiffusion/
